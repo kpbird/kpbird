@@ -1,16 +1,13 @@
-### Hi there 👋
+A technical leader with a proven record of delivering outcomes in fast-paced and early-stage organizations. Expertise to understand customer's needs, define tool and technology, design system architecture.
+Work toward the innovative solutions while motivating teams towards collective success.
 
-<!--
-**kpbird/kpbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Programming Languages: Go, Java, Kotlin, Node.js, Python, JavaScript
+- Technologies: Microservices, Service Mesh, Kubernetes, Docker, AWS, gRPC
+- Cloud Providers: AWS, GCP
+- ML/AI: ML with Python, Tensorflow
+- Blockchain: HyperLedger & Etherium
+- Database: MySql, PostgreSQL, cockroacDB, Redis
+- Mobile: Android, Flutter
+- Specialization: Software Architecture, Distributed Systems, Cloud Native Stack, Open Source Advocacy.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Solutions Architecture | Technical Leadership | Technical Program/Project Management | Agile Delivery | Continuous Integration | Continuous Delivery | DevOps | Software Development | Quality Engineering | Team Building
