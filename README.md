@@ -19,33 +19,3 @@ Work toward the innovative solutions while motivating teams towards collective s
 
 Solutions Architecture | Technical Leadership | Technical Program/Project Management | Agile Delivery | Continuous Integration | Continuous Delivery | DevOps | Software Development | Quality Engineering | Team Building
 
-
-**BOOKS / PAPERS**
-
-- Technical Review of Developing RESTful web service with Jersey 2.0 (Packt Publication)
-- Technical Reviewer of Mastering AWS (Packt Publication)
-- Book: a co-author of High-Performance Computing with Cluster and Grid 
-- jUniGrid: A Simplistic Framework for Integration of Mobile Devices in Heterogeneous Grid Computing. In - International Journal of Multidisciplinary Science and Engineering (IJMSE)
-- Mobile Grid Computing: Facts or Fantasy? In International Journal of Multidisciplinary Science and Engineering (IJMSE)
-- Published Articles in http://androidweekly.net/ and http://androiddevweekly.com/
-
-**CERTIFICATIONS**
-
-- Learn SQL Using PostgreSQL: From Zero to Hero
-- Redis Labs | RU330: Redis Security
-- Getting Started With CockroachDB Certificate of Completion
-- Redis Labs | RU202: Redis Streams
-- Redis Labs | RU101: Introduction to Redis Data Structures
-- Redis Labs | RU201: RediSearch
-- Python A-Z™: Python For Data Science With Real Exercises
-- Introduction to the MongoDB
-- Deep Learning A-Z™: Hands-On Artificial Neural Networks
-- Learn How To Code: Google's Go (golang) Programming Language
-- Google Cloud Platform Big Data and Machine Learning Fundamentals
-- Ethereum Developer Masterclass: Build Real World Projects
-- Getting Started with Ethereum Solidity Development
-- Statistics for Business Analytics A-Z™
-- IBM Blockchain Essentials
-- IBM Blockchain Foundation Developer
-- Machine Learning A-Z™: Hands-On Python & R In Data Science
-- Certification Course of Sun Certified Java Programmer.
