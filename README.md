@@ -1,4 +1,4 @@
-I’m a multi-disciplined Mobile, Web, and Cloud architect with 13+ years experience spanning various client, server and cloud infrastructure technologies.
+I’m a multi-disciplined Mobile, Web, and Cloud architect with 18+ years experience spanning various client, server and cloud infrastructure technologies.
 
 A technical leader with a proven record of delivering outcomes in fast-paced and early-stage organizations. Expertise to understand customer's needs, define tool and technology, design system architecture.
 Work toward the innovative solutions while motivating teams towards collective success.
